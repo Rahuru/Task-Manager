@@ -68,14 +68,7 @@ A complete task management application built with Node.js, Express, MongoDB, and
    npm install
    ```
 
-3. **Environment Configuration**
-   Create a `.env` file in the backend directory:
-   ```env
-   PORT=5000
-   NODE_ENV=development
-   MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/taskmanager
-   JWT_SECRET=your_secure_jwt_secret_key_here
-   FRONTEND_URL=http://localhost:8081
+
    ```
    
    **🔒 SECURITY WARNING**: 
@@ -356,10 +349,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-[Your Name]
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+Josna Fernandes
+- GitHub: [@Josna126](https://github.com/Josna126)
+- Email: fernandesjosna2005@gmail.com
 
----
-
-**🎉 Ready for submission with all requirements met and bonus features implemented!**
